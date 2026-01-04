@@ -54,3 +54,9 @@ form{
     border-radius: 10px;
 }
 
+.endSection{
+    font-size: 45px;
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(128, 128, 242);
+}
